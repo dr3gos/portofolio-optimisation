@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# macOS files
+.DS_Store
+
+# Downloaded price data
+data/*.csv
